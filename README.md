@@ -1,2 +1,3 @@
 # GoLB
-developing a load balancer from scratch
+
+developing a Round‑robin load balancer from scratch
